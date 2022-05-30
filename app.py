@@ -4,7 +4,7 @@ from ocr import detect, recognize
 from utils import bytes_to_numpy
 
 st.write("""
-# PaddleOCR Streamlit Demo
+# Streamlit部署文字识别前端演示
 
 ---
 """)
